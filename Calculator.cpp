@@ -1,6 +1,6 @@
 #include <iostream>
-#include <limits>
-using namespace std;
+#include <limits> // Names are in Polish language, but i think the code itself is clear enough to understand what is what.
+using namespace std; // I want to make this code work when user is typing letters into console.
 int a;
 int b;
 int wybor;
